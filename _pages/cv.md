@@ -76,7 +76,7 @@ Professional Activities
   - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 * Reviewer for the following conferences: 
   - Conference on Neural Information Processing Systems (NeurIPS), 2021, 2022.
-  - International Conference on Machine Learning (ICML), 2022.
+  - International Conference on Machine Learning (ICML), 2022, 2023.
   - International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022.
   - IEEE International Workshop on Machine Learning for Signal Processing (IEEEMLSP), 2022
   - International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.
