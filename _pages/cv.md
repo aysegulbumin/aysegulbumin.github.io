@@ -17,6 +17,17 @@ Education
 
 Work experience
 ======
+* Fall 2022: Research Scientist
+  * Google 
+  * Duties Included: Research on state of the art NLP models for better privacy, security and anti abuse contents. 
+    Completing a research paper. 
+  * Programming Languages: Python
+  * Skills: Tensorflow, Tensorflow similarity 
+* Summer 2022: Applied Scientist Intern
+  * Amazon
+  * Duties Included: Developing a new recommendation algorithm for Amazon Kids Personalization team.
+  * Programming Languages: Python, SQL
+  * Technologies: Amazon AWS (EC2), Pytorch, Amazon Sagemaker, Amazon Deep Graph Library (DGL)
 * Summer 2021: Research Internship 
   * IQVIA Inc.
   * Duties included: Developing and implementing novel ML models for improving health care services
