@@ -42,11 +42,6 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   22. Bahamas
   23. Canada!
 
-## Books
+## Working on a blog!
 
-Here are a few books that I am simultaneously reading/listening.
-
-  1. The Book of Why - Dana Mackenzie and Judea Pearl
-  2. The Midnight Library - Matt Haig
-  3. Finland: The Country of White Lilies - Grigory Spiridonovich Petrov
 
