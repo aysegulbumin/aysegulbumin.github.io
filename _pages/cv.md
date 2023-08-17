@@ -13,11 +13,11 @@ Education
 ======
 * B.S. in Computer Engineering, Middle East Technical University , 2017
 * M.S. in Computer Science, University of Florida, 2020
-* Ph.D in Computer Science, University of Florida, 2023 (expected)
+* Ph.D in Computer Science, University of Florida, 2023
 
 Work experience
 ======
-* Fall 2022: Research Scientist
+* Fall 2022 / Spring 2023: Research Scientist/ Student Researcher
   * Google 
   * Duties Included: Research on state of the art NLP models for better privacy, security and anti abuse contents. 
     Completing a research paper. 
