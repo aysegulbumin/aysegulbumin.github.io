@@ -15,7 +15,7 @@ redirect_from:
   
 ## Fun Fact
 
-## Travelled to 23 Countries!
+## Travelled to 24 Countries!
 
 I can not wait to travel to more. Maybe I should do a city version of this list!
   1. Turkey
@@ -41,6 +41,7 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   21. Cyprus
   22. Bahamas
   23. Canada!
+  24. Puerto Rico
 
 ## Working on a blog!
 
